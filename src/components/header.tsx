@@ -9,7 +9,7 @@ export const HeaderCs = () => {
 
             <a href="https://wa.me/11982018205">Contato</a>
 
-            <a>Git</a>
+            <a href="https://github.com/Jota2kk/first">GitHub</a>
           </div>
 
         </div>
